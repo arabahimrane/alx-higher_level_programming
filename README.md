@@ -1,0 +1,1 @@
+The projects in this repository are related to the software engineering training at ALX
