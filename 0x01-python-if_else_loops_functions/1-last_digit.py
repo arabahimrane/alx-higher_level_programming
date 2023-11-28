@@ -2,8 +2,9 @@
 import random
 number = random.randint(-10000, 10000)
 # YOUR CODE HERE
+
 if number < 0:
-    lastdegit = -(abs(number % 10))
+    lastdegit = -(-number % 10)
 else:
     lastdegit = number % 10
 if (lastdegit > 5):
