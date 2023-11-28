@@ -6,7 +6,7 @@ lastdegit = number % 10
 
 if (lastdegit > 5):
     print(f"Last digit of {number} is {lastdegit} and is greater than 5")
-elif (lastdegit > 0):
+elif (lastdegit == 0):
     print(f"Last digit of {number} is {lastdegit} and is 0")
 else:
     print(f"Last digit of {number} is {lastdegit} and is less than 6 and not 0")
