@@ -1,3 +1,4 @@
+#!/usr/bin/node
 // Script that prints “JavaScript is amazing”
 
 const lines = ['C is fun', 'Python is cool', 'JavaScript is amazing'];

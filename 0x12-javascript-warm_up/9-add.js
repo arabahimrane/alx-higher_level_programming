@@ -1,6 +1,7 @@
+#!/usr/bin/node
 // script that prints x times “C is fun”
 
-function add(a, b) {
+function add (a, b) {
   return (a + b);
 }
 

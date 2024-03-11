@@ -1,3 +1,4 @@
+#!/usr/bin/node
 // Script that computes and prints a factorial
 
 if (process.argv.length <= 3) {

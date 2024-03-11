@@ -1,3 +1,4 @@
+#!/usr/bin/node
 // script that prints x times “C is fun”
 
 if (process.argv.length === 3) {
